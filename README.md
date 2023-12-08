@@ -23,7 +23,7 @@ A correlation heatmap is generated to visualize the relationships between numeri
 
 
 ### Regression Plots
-Two regression plots are created to explore relationships between specific pairs of variables. The first plot examines the correlation between loudness and energy, while the second analyzes the relationship between popularity and acousticness. These visualizations help in understanding the trends and patterns within the data.
+Two regression plots are created to explore relationships between specific pairs of variables. The first plot examines the correlation between loudness and energy, while the second analyzes the relationship between popularity and acousticness. These visualizations help in understanding the trends and patterns within the data
 ![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/d6891b87-166a-4dce-a2bc-6497e74ca0b2)
 
 ![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/e67c8b84-1ee2-43d3-9b43-39d6300db6a7)
