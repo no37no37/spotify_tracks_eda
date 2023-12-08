@@ -1,4 +1,4 @@
-# Spotify Tracks Analysis Documentation
+# Spotify Tracks Exploratory Data Analysis
 
 ## Introduction
 The "Spotify Tracks Analysis" project involves the exploration and visualization of a dataset containing information about various Spotify tracks. The primary goal is to gain insights into the characteristics of the songs, identify patterns, and understand how certain features correlate with each other. The analysis is conducted using Python programming language and popular data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
